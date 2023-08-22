@@ -15,8 +15,6 @@ El programa analiza secuencias de instrucciones, identificando cadenas, números
 
 ## Instrucciones
 
-El repositorio estará organizado de la siguiente manera:
-
 1. Asegúrate de tener Bison y Flex instalado en tu sistema.
 2. Descarga el repositorio a tu directorio local.
 3. Abre una terminal y navega al directorio donde se encuentra el repositorio.
